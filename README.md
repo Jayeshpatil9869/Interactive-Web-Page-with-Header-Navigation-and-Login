@@ -1,4 +1,4 @@
-# Interactive-Web-Page-with-Header-Navigation-and-Login https://jayeshpatil9869.github.io/Interactive-Web-Page-with-Header-Navigation-and-Login/
+# Interactive-Web-Page-with-Header-Navigation-and-Login 
 Create an interactive web page that features a clean design with a header, navigation bar, and login section. The header provides a visual identity for the website, the navigation bar enhances user experience by allowing seamless movement between different sections, and the login section ensures personalized access to the site's features.
 
 The header showcases the website's logo, establishing a visual brand presence. It is strategically placed at the top of the page to catch the user's attention and create a sense of familiarity.
@@ -11,5 +11,5 @@ Overall, this web page design combines aesthetics and functionality, providing a
 
 
 
-# Webpage :
+# Webpage : https://jayeshpatil9869.github.io/Interactive-Web-Page-with-Header-Navigation-and-Login/
 ![Interactive-web-page](https://github.com/Jayeshpatil9869/Interactive-Web-Page-with-Header-Navigation-and-Login/assets/97843592/5d135acb-ec9f-4660-9326-11b65e70b049)
