@@ -13,8 +13,10 @@ Overall, this web page design combines aesthetics and functionality, providing a
 ## Webpage
 ![Interactive-web-page](https://github.com/Jayeshpatil9869/Interactive-Web-Page-with-Header-Navigation-and-Login/assets/97843592/5d135acb-ec9f-4660-9326-11b65e70b049)
 
-### Video Demo
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+## Video Demo
+
+https://github.com/Jayeshpatil9869/Interactive-Web-Page-with-Header-Navigation-and-Login/assets/97843592/12b33cdd-fbe2-4599-b9f8-028e8b47fd45
+
 
 
 ## Website  
