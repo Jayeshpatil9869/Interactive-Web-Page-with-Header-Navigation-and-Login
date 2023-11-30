@@ -34,7 +34,7 @@
   </div>
   <div class="login-box">
     <p>Login</p>
-    <form>
+    <form onsubmit="showAlert(); return false;">
       <div class="form-control">
         <input type="value" required="">
         <label>
@@ -69,7 +69,7 @@
           </path>
         </svg>
       </label>
-      <a href="index.html">
+      <a href="index.html" onclick="showAlert()">
         <span></span>
         <!-- powfu rxseboy  -->
         <span></span>
@@ -89,6 +89,10 @@
       } else {
         passwordInput.type = "password";
       }
+    }
+
+    function showAlert() {
+      alert("Form submitted!"); // You can customize this message
     }
   </script>
 </body>
